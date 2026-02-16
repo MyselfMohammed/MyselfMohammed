@@ -4,7 +4,6 @@
 📍 Chennai, India  
 📧 azeematall@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/mohammed-gouse-mg  
-🔗 GitHub: https://github.com/MyselfMohammed  
 
 ---
 
@@ -85,16 +84,6 @@ Strong expertise in:
 - Cross-Validation
 - Bias–Variance Trade-off
 - Handling Class Imbalance (SMOTE)
-
-### Evaluation Metrics
-- R²
-- MAE
-- RMSE
-- Confusion Matrix
-- Classification Report
-- ROC-AUC
-
----
 
 ## 🚀 Featured Project
 
