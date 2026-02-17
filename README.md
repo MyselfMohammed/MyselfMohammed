@@ -74,24 +74,24 @@ Strong expertise in:
 
 ## 📈 Data Analysis & Modeling Methodologies Followed :
 
- Data Understanding & Exploration
- Exploratory Data Analysis (EDA)
- Data Preparation & Feature Engineering
- Feature Engineering & Feature Selection
- Handling Class Imbalance (SMOTE)
- Dimensionality Reduction & Transformation
- Principal Component Analysis (PCA)
- Linear Discriminant Analysis (LDA)
- Partial Least Squares (PLS)
- Feature Selection Optimization
- Recursive Feature Elimination (RFE)
- Model Training Strategy
- Cross-Validation
- Bias–Variance Trade-off Analysis
- Model Optimization
- Hyperparameter Tuning (GridSearchCV)
- Model Evaluation
- Evaluation Metrics: R², MAE, RMSE, Confusion Matrix, Classification Report, ROC-AUC
+- Data Understanding & Exploration
+  Exploratory Data Analysis (EDA)
+- Data Preparation & Feature Engineering
+  Feature Engineering & Feature Selection
+  Handling Class Imbalance (SMOTE)
+- Dimensionality Reduction & Transformation
+  Principal Component Analysis (PCA)
+  Linear Discriminant Analysis (LDA)
+  Partial Least Squares (PLS)
+- Feature Selection Optimization
+  Recursive Feature Elimination (RFE)
+- Model Training Strategy
+  Cross-Validation
+  Bias–Variance Trade-off Analysis
+- Model Optimization
+  Hyperparameter Tuning (GridSearchCV)
+- Model Evaluation
+  Evaluation Metrics: R², MAE, RMSE, Confusion Matrix, Classification Report, ROC-AUC
 
 ## 🚀 Featured Project
 
