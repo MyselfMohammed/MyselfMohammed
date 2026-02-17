@@ -116,9 +116,9 @@ Strong expertise in:
 
 Infrastructure:
 - AWS EC2
-- Amazon RDS (MySQL)
-- Amazon ECR
-- Amazon Linux / Ubuntu
+- AWS ECR
+- AWS RDS (MySQL) 
+- AWS Linux / Ubuntu
 
 Security Architecture:
 - IAM Roles (Least-Privilege Access)
