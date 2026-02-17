@@ -11,7 +11,7 @@
 
 Results-driven IT professional with 10+ years of experience across Technical Support, Quality Engineering, UI Automation, and AI/ML Engineering.
 
-3.5+ years of hands-on experience in Python, Machine Learning, and Data Science, building scalable ML models and deploying real-world AI applications on AWS using secure DevOps practices.
+3+ years of hands-on experience in Python, Machine Learning, and Data Science, building scalable ML models and deploying real-world AI applications on AWS using secure DevOps practices.
 
 Strong expertise in:
 - Machine Learning Model Development
